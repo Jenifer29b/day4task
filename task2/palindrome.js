@@ -12,3 +12,6 @@ let str3 = "plain";
  console.log(palindrome(str1))
  console.log(palindrome(str2))
  console.log(palindrome(str3))
+
+
+  
